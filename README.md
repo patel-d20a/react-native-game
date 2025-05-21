@@ -16,3 +16,6 @@ A mobile game built with **React Native** and **Expo**. This is a work-in-progre
    ```bash
    git clone https://github.com/patel-d20a/react-native-game.git
    cd react-native-game
+## 🔗 Live Demo
+
+Coming soon! I’m currently working on a playable demo using Expo Go or a shared Expo Snack link.
